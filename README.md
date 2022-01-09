@@ -10,4 +10,4 @@ A Full Stack Web Developer enthusiast and interested in turning your meaningless
 - I have done work in applying JAVASCRIPT algorithms.
 - Creating Responsive Web Pages, Backend Algorithm and different Databases.
 - I have working experience the experienced researcher.
-- I am a quick learner and like to face challenges head-on!
+- I am a quick learner and like to face challenges.
