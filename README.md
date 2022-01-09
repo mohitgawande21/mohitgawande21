@@ -1,3 +1,8 @@
+Hi there 👋
+I'm currently a Working at HCL Technologies.
+
+I received my bachelor's degree from SGGS Institute of Engineering and Technology Nanded (India) in Electronics and Telecommunication Engineering.
+
 A Full Stack Web Developer enthusiast and interested in turning your meaningless data into actionable information.
 
 - I have 3+ years of experience in Web Developer, Researcher, JAVASCRIPT, HTML, CSS, HTML5, Bootstrap, Node-JS Python, C, MATLAB .
