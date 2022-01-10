@@ -1,5 +1,5 @@
 Hi there 👋
-I'm currently a Working at HCL Technologies.
+I'm currently Working at HCL Technologies.
 
 I received my bachelor's degree from SGGS Institute of Engineering and Technology Nanded (India) in Electronics and Telecommunication Engineering.
 
