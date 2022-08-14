@@ -1,13 +1,13 @@
 Hi there 👋
-I'm currently Working at HCL Technologies.
+I'm currently Working at Globant India Pvt ltd.
 
 I received my bachelor's degree from SGGS Institute of Engineering and Technology Nanded (India) in Electronics and Telecommunication Engineering.
 
 A Full Stack Web Developer enthusiast and interested in turning your meaningless data into actionable information.
 
-- I have 3+ years of experience in Web Developer, Researcher, JAVASCRIPT, HTML, CSS, HTML5, Bootstrap,React-js.
-- I have good experience with Bootstrap framework.
-- I have done work in applying JAVASCRIPT algorithms.
+- I have 3 years of experience as Web Developer, Researcher, JAVASCRIPT,React-jS,Node JS, Express, Backbone JS, Marionette, HTML, CSS, HTML5, Bootstrap5,Time complexity.
+- I have good experience with React Js framework.
+- I have work in applying Data Structures and algorithms in JAVASCRIPT.
 - I have working experience the experienced researcher.
 - I am a quick learner and like to face challenges.
 
