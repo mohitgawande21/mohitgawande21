@@ -5,7 +5,7 @@ I received my bachelor's degree from SGGS Institute of Engineering and Technolog
 
 A Full Stack Web Developer enthusiast and interested in turning your meaningless data into actionable information.
 
-- I have 3 years of experience as Web Developer, Researcher, JAVASCRIPT,React-jS,Node JS, Express, Backbone JS, Marionette, HTML, CSS, HTML5, Bootstrap5,Time complexity.
+- I have 3 years of experience as Web Developer, Researcher, JAVASCRIPT,React-jS,Node JS, Express, Backbone JS, HTML, CSS, HTML5, Bootstrap5,Time complexity.
 - I have good experience with React Js framework.
 - I have work in applying Data Structures and algorithms in JAVASCRIPT.
 - I have working experience the experienced researcher.
