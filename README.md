@@ -69,6 +69,7 @@ With over 6 years of professional experience in web development, I have worked e
 
 ## 🌐 Portfolio & Projects
 
+* Portfolio : https://mohit-gawande-portfolio.netlify.app/
 * Recent, Weather App Project: https://dailyatmosphere.netlify.app/
 * Calendar Project: https://calender-green.vercel.app/
 * AG Grid: https://aggriddashboard.netlify.app/
