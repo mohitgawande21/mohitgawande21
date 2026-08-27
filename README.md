@@ -70,11 +70,9 @@ With over 6 years of professional experience in web development, I have worked e
 ## 🌐 Portfolio & Projects
 
 * Recent, Weather App Project: https://dailyatmosphere.netlify.app/
-* Portfolio: https://mohitg-portfolio.web.app/
 * Calendar Project: https://calender-green.vercel.app/
 * AG Grid: https://aggriddashboard.netlify.app/
-* Notes Saver App: https://todoapp-69703.firebaseapp.com/
-* Wool Design UI: https://wooldesign1212.web.app/
+
   
 
 ## 📌 About Me
