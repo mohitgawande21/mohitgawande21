@@ -71,6 +71,7 @@ With over 6 years of professional experience in web development, I have worked e
 
 * Portfolio : https://mohit-gawande-portfolio.netlify.app/
 * Recent, Weather App Project: https://dailyatmosphere.vercel.app/, https://dailyatmosphere.netlify.app/
+* Tic Tac Toe Game: https://tic-tac-toe-game-ashen-alpha.vercel.app
 * Calendar Project: https://calender-green.vercel.app/
 * AG Grid: https://aggriddashboard.netlify.app/
 * Shopping App : https://shopping-app-with-next-js.vercel.app/
