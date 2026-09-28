@@ -6,7 +6,9 @@ I received my Bachelor's degree in Electronics and Telecommunication Engineering
 
 I am a passionate Frontend and Full Stack Developer with experience in building scalable, responsive, and high-performance web applications. I enjoy transforming complex business requirements and raw data into meaningful, user-friendly digital experiences.
 
-With over 6 years of professional experience in web development, I have worked extensively across frontend technologies, backend services, cloud platforms, and deployment pipelines.
+With over 7 years of professional experience in web development, I have worked extensively across frontend technologies, backend services, cloud platforms, and deployment pipelines.
+
+Applied AI-assisted development workflows using ChatGPT, Claude, GitHub Copilot, and Cursor for prototyping, debugging, refactoring, and implementation support.
 
 ## 🚀 Tech Stack & Expertise
 
@@ -20,6 +22,7 @@ With over 6 years of professional experience in web development, I have worked e
 * Vue.js
 * HTML5
 * CSS3
+* AI, LLM streaming, AI models
 * Bootstrap 5
 * Tailwind CSS
 * Responsive Design
@@ -34,7 +37,8 @@ With over 6 years of professional experience in web development, I have worked e
 * REST APIs
 * Authentication & Authorization
 * MongoDB
-* SQL Basics
+* postgres
+* SQL
 
 ### Cloud & DevOps
 
@@ -69,7 +73,9 @@ With over 6 years of professional experience in web development, I have worked e
 
 ## 🌐 Portfolio & Projects
 
+
 * Portfolio : https://mohit-gawande-portfolio.netlify.app/
+* Recent, Ai Project:  https://knowly-ai.vercel.app/
 * Recent, Weather App Project: https://dailyatmosphere.vercel.app/, https://dailyatmosphere.netlify.app/
 * Tic Tac Toe Game: https://tic-tac-toe-game-ashen-alpha.vercel.app
 * Calendar Project: https://calender-green.vercel.app/
